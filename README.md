@@ -1,2 +1,2 @@
-# Rading-Text
+# Reading-Text
 Zuri Traning
